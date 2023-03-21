@@ -44,12 +44,6 @@ ER Diagram, (UML) diagram or any method you used to represent your database sche
 # Screen Shots For CRUD Opiration 
 
 ###
-Calendersdb, Calender
-<img width="1512" alt="Calendersdb: Calender" src="https://user-images.githubusercontent.com/19625138/226548465-05c2e7c9-1ff5-4679-b786-cbeca2f3d1ce.png">
-###
-Calendersdb, Days
-<img width="1512" alt="Calendersdb: Days" src="https://user-images.githubusercontent.com/19625138/226548501-aa90c1a0-81ac-4c7d-9451-9cf5dfd5410b.png">
-###
 Delete Calender
 <img width="1512" alt="Delete Calender" src="https://user-images.githubusercontent.com/19625138/226548531-5f51a74d-6a9b-4753-bb87-423fd10f3437.png">
 ###

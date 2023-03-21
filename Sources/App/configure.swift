@@ -8,13 +8,6 @@ public func configure(_ app: Application) throws {
     // app.middleware.use(FileMiddleware(publicDirectory: app.directory.publicDirectory))
 
 
-    app.databases.use(.postgres(hostname: "localhost",
-                                username: "postgres",
-                                password: "1234",
-                               database: "calendersdb"),
-                      as: .psql)
-    
-    
     // Migration Config
     app.migrations.add(CreateCalender())
     app.migrations.add(CreateDay())

@@ -2,8 +2,6 @@
 # API Saudi Calender 🗓️
 
 
-###
-
 # App Statement
 
 An API that shows the user the most important Events/Holidays in Saudi Arabia.
@@ -29,16 +27,26 @@ ER Diagram, (UML) diagram or any method you used to represent your database sche
 
 ![Database diagram](https://user-images.githubusercontent.com/19625138/226547933-a59b73b6-baa5-4694-a0ec-b2b830646928.png)
 
-# Used Apps 
 
+
+# Tools Used
 ###
 
+- Swift
 - Xcode
+- lucid
+- Postgres
+- Postico 2
+- Postman 
+
+
+# Technologies Used
+
+###
 - Vapor
 - fluent
-- Postgres
-- Postman
-- Postico 2
+- PostgreSQL
+
 
 # Screen Shots For CRUD Opiration 
 
@@ -69,8 +77,9 @@ Put Days
 
 ###
 
-# Team Terminators 🤖 
+# Team Terminators 🦾
 ###
 Team Members 
 - <a href="https://github.com/Meshael/">Mashael Alharbi</a>
+- <a href="https://github.com/RahafTwq/">Rahaf Aldossary</a> 
 - <a href="https://www.linkedin.com/in/atheer-alshehri-b44628194/">Atheer Alshehri</a>

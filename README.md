@@ -1,7 +1,6 @@
 
 # API Saudi Calender 🗓️
 
-# Team Terminators 🤖
 
 ###
 
@@ -19,6 +18,7 @@ An API that shows the user the most important Events/Holidays in Saudi Arabia.
 -  Get events in each month and display them to the user.
 -  update events.
 -  Delete events.
+
 
 # Database Schema
 
@@ -39,7 +39,6 @@ ER Diagram, (UML) diagram or any method you used to represent your database sche
 - Postgres
 - Postman
 - Postico 2
-- Terminal 
 
 # Screen Shots For CRUD Opiration 
 
@@ -70,6 +69,8 @@ Put Days
 
 ###
 
+# Team Terminators 🤖 
+###
 Team Members 
 - <a href="https://github.com/Meshael/">Mashael Alharbi</a>
 - <a href="https://www.linkedin.com/in/atheer-alshehri-b44628194/">Atheer Alshehri</a>

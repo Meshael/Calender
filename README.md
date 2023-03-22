@@ -10,11 +10,14 @@ An API that shows the user the most important Events/Holidays in Saudi Arabia.
 
 ### 
 
--  Create a new events.
+-  Create months.
 -  Get months and display them to the user.
 -  Get months by specific id.
--  Get events in each month and display them to the user.
--  update events.
+-  Update months.
+-  Delete months.
+-  Create events.
+-  Get events and display them to the user.
+-  Update events.
 -  Delete events.
 
 
